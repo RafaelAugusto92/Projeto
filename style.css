@@ -1,0 +1,238 @@
+
+.cabecalho{
+    height: 50px;
+    background-color: black;
+    display: flex;
+    padding: 0 5px;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    border-radius: 30px;
+}
+
+.itens{
+    color: white;
+}
+
+.menorDoQue{
+    color: white;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    padding-right: 10px;
+}
+
+.maiorDoQue{
+    color: white;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+}
+
+.PrimeiroMenu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.SegundoMenu{
+    height: 30px;
+    margin: 10px 0;
+}
+
+.SegundoMenu{
+    display: flex;
+    background-color: white;
+    margin: 10px 0;
+    border: 1px solid black;
+    border-radius: 30px;
+}
+
+.lupaDePesquisa{
+    width: 20px;
+    height: 20px;
+    padding: 0 5px;
+}
+
+.ImagemTwitter{
+    height: 20px;
+    width: 20px;
+}
+
+.ImagemUsuario{
+    height: 20px;
+    width: 20px;
+    margin: 0 10px;
+}
+
+
+.BarraDePesquisa {
+    display: flex;
+    align-items: center;
+    flex-flow: row-reverse;
+    margin: 0 15px;
+}
+
+.Search{
+    display: flex;
+    align-items: center;
+    flex-flow: row-reverse;
+    margin: 0 1000px;
+}
+
+.ImagemMenu{
+    width: 20px;
+    height: 20px;
+    margin: 0 10px;
+}
+
+.layoutOculos{
+    display: flex;
+    width: auto;
+    height: 300px;
+    margin: 100px 0;
+    justify-content: space-around;
+}
+
+.precosOculos{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    bottom: 90px;
+}
+
+.fotoDois{
+    margin: 0 5px;
+}
+
+.BrisaDaManhaContainer{
+    margin: 0 10px;
+}
+
+.txtOculosUm{
+    color: orangered;
+    margin: 0 60px;
+}
+
+.codigoOculosWF{
+    text-align: center;
+}
+
+.codigoOculosCF{
+    text-align: center;
+}
+
+.txtOculosDois{
+    text-align: center;
+    color: orangered;
+    margin: 0 0;
+}
+
+.codigoOculosRP{
+    text-align: center;
+}
+
+.txtOculosTres{
+    color: orangered;
+    text-align: center;
+    margin: 0 0;
+}
+
+.BotaoUm{
+    width: 100px;
+    height: 50px;
+    margin: 10px 40px;
+    border-radius: 20px;
+    border: none;
+    box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
+}
+
+.BotaoUm:hover {
+    background-color: rgba(236, 214, 196, 0.53);
+}
+
+.BotaoDois{
+    width: 100px;
+    height: 50px;
+    margin: 10px 80px;
+    border-radius: 20px;
+    border: none;
+    box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
+}
+
+.BotaoDois:hover {
+    background-color: rgba(236, 214, 196, 0.53);
+}
+
+.BotaoTres{
+    width: 100px;
+    height: 50px;
+    border-radius: 20px;
+    border: none;
+    box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
+    margin: 10px 80px;
+}
+
+.BotaoTres:hover {
+    background-color: rgba(236, 214, 196, 0.53);
+}
+
+.layoutOculosDois{
+    display: flex;
+    width: auto;
+    height: 300px;
+    margin: 80px 0;
+    justify-content: space-around;
+}
+
+.precosOculosDois{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    bottom: 50px;
+    left: 5px;
+}
+
+.fotoD1{
+    width: 450px;
+}
+
+.MrSunshine{
+    margin-left: 30px;
+}
+
+.MrSunshineDois{
+    margin-left: 30px;
+}
+
+.linhaSeparacao{
+    border-top: 0.4px solid black;
+    width: 300px;
+    margin: 0 39%;
+}
+
+.rodapeContainer{
+    width: auto;
+    height: 100px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    border-radius: 30px;
+}
+
+.DireitosReservados{
+    padding: 35px 0;
+}
+
+.DivisaoRodape{
+    border-top: 0.4px solid black;
+    margin: 40px 0;
+}
+
+
+
+
+
+
+
